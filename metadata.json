@@ -1,0 +1,6 @@
+{
+  "name": "Xadrez Soberano",
+  "description": "Jogo de xadrez completo com todas as regras oficiais, relógio configurável, notação algébrica e inteligência artificial tática.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
